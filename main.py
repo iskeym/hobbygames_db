@@ -48,4 +48,6 @@ def parser():
 
     driver.close()
 
+    print('bl')
+
 parser()
